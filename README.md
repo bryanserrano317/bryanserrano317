@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Bryan! 👋
 
-<!--
-**bryanserrano317/bryanserrano317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Software Engineer 
+🧑🏻‍🎓 Masters' in Computer Science (Spec: Computing Systems) at Georgia Institute of Technology
+⚙️ Bachelor's in Mechanical Engineering (Minor: Computer Science) at University of Central Florida
+☁️ Currently learning about data engineering, cloud computing, and distributed systems!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
