@@ -2,7 +2,6 @@
 
 🧑🏻‍💻 Software Engineer <br>
 🧑🏻‍🎓 Masters' in Computer Science (Spec: Computing Systems) at Georgia Institute of Technology<br>
-⚙️ Bachelor's in Mechanical Engineering (Minor: Computer Science) at University of Central Florida<br>
 ☁️ Currently learning about data engineering, cloud computing, and distributed systems!<br>
 
 # 💻 Tech Stack
