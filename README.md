@@ -1,4 +1,4 @@
-## Hi, I'm Bryan! 👋
+## 👋 Hi, I'm Bryan! 
 
 🧑🏻‍💻 Software Engineer <br>
 🧑🏻‍🎓 Masters' in Computer Science (Spec: Computing Systems) at Georgia Institute of Technology<br>
